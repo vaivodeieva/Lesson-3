@@ -8,3 +8,5 @@ Git is awesome
 This is some additional text 
 
 This is even more text
+
+Continue learning
