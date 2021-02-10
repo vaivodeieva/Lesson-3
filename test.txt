@@ -1,3 +1,5 @@
 Hello world!
 
 Learning some more git
+
+git is great
