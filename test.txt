@@ -1,1 +1,6 @@
 Hello world!
+
+
+Something else
+
+Git is awesome
