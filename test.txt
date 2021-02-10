@@ -4,3 +4,5 @@ Hello world!
 Something else
 
 Git is awesome
+
+This is some additional text 
