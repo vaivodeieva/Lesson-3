@@ -1,5 +1,5 @@
 Hello world!
 
-Adding some new text fooo bar here 4 5
+Conflict 2
 
 
